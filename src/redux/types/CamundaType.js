@@ -1,0 +1,11 @@
+export const CAMUNDA_DEPLOYMENT = 'camunda_deployment';
+export const CAMUNDA_GET_FORM_VARIABLE = 'camunda_get_form_variable';
+export const CAMUNDA_SET_DEPLOYMENT = 'camunda_set_deployment';
+export const CAMUNDA_SET_FORM_VARIABLE = 'camunda_set_form_variable';
+export const CAMUNDA_SET_PROCESS_DEFINITION = 'camunda_set_process_definition';
+export const CAMUNDA_SET_PROCESS_DEFINITION_XML = 'camunda_set_process_definition_xml';
+export const CAMUNDA_SET_CURRENT_PROCESS = 'camunda_set_current_process';
+export const CAMUNDA_SET_TENANT = 'camunda_set_tenant';
+export const CAMUNDA_SET_CURRENT_TENANT = 'camunda_set_current_tenant';
+export const CAMUNDA_SET_TASK_LIST = 'camunda_set_task_list';
+export const CAMUNDA_SET_TENANT_GROUP = 'camunda_set_tenant_group';
